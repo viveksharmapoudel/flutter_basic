@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
 
-
 class HomePage extends StatelessWidget {
 
-    final double check =1;
-    final String name ="vivekd skjds sj";
-
+  final double check =1;
+  final String name ="vivekd";
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -20,4 +18,5 @@ class HomePage extends StatelessWidget {
         drawer: Drawer(),
       );
   }
+
 }
