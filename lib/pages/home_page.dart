@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_cat/model/product.dart';
+import 'package:flutter_cat/widgets/bottomTabs.dart';
 import 'package:flutter_cat/widgets/drawer.dart';
 import 'package:flutter_cat/widgets/product_widget.dart';
 import 'dart:convert';
@@ -81,6 +82,7 @@ class _HomePageState extends State<HomePage> {
           child: CircularProgressIndicator(),
         )
         ,
+        bottomNavigationBar: const CustomBottomTabs(),
         drawer:const MyDrawer(),
       );
   }
