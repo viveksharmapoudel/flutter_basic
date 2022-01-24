@@ -1,0 +1,36 @@
+{
+	"products": [
+		{
+			"id": 1,
+			"title": "one",
+			"image": "https://www.bollywoodhungama.com/wp-content/uploads/2022/01/Salman-Khan-to-promote-Chiranjeevi-and-Ramcharans-dream-project-Acharya.jpeg",
+			"price": 10.2,
+			"color": "#fafafa",
+			"description": "this is first image "
+		},
+		{
+			"id": 1,
+			"title": "one",
+			"image": "https://www.bollywoodhungama.com/wp-content/uploads/2022/01/Salman-Khan-to-promote-Chiranjeevi-and-Ramcharans-dream-project-Acharya.jpeg",
+			"price": 10.2,
+			"color": "#fafafa",
+			"description": "this is first image "
+		},
+		{
+			"id": 1,
+			"title": "one",
+			"image": "https://www.bollywoodhungama.com/wp-content/uploads/2022/01/Salman-Khan-to-promote-Chiranjeevi-and-Ramcharans-dream-project-Acharya.jpeg",
+			"price": 10.2,
+			"color": "#fafafa",
+			"description": "this is first image "
+		},
+		{
+			"id": 1,
+			"title": "one",
+			"image": "https://www.bollywoodhungama.com/wp-content/uploads/2022/01/Salman-Khan-to-promote-Chiranjeevi-and-Ramcharans-dream-project-Acharya.jpeg",
+			"price": 10.2,
+			"color": "#fafafa",
+			"description": "this is first image "
+		}
+	]
+}
